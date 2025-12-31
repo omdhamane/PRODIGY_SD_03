@@ -1,5 +1,4 @@
-Contact Management System – GUI Based Application
-📖 Project Description
+Contact Management System 
 
 This project is a GUI-based Contact Management System developed as part of the Software Development Internship at Prodigy Infotech.
 
